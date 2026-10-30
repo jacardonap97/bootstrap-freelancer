@@ -1,0 +1,30 @@
+.colorbg-custom{
+    background-color: #1ABC9C;
+}
+
+.fs-52 {
+    font-size: 52px;
+}
+
+.fs-70{
+    font-size: 70px;
+}        
+
+.color-custom{
+    color: #2C3E50
+}
+
+.mv-btn{
+    display: flex;
+    margin-left: 630px;
+    background-color: #6AD3BE !important;
+    border: none;
+}
+
+.nav-bg-color{
+    background-color: #2C3E50 !important;
+}
+
+.btn-bg-color{
+    background-color: #6AD3BE !important;
+}
